@@ -1,0 +1,8 @@
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\bin\Debug\FlowerFactoryApp.exe.config
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\bin\Debug\FlowerFactoryApp.exe
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\bin\Debug\FlowerFactoryApp.pdb
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\obj\Debug\FlowerFactoryApp.csproj.AssemblyReference.cache
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\obj\Debug\FlowerFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\obj\Debug\FlowerFactoryApp.exe
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\obj\Debug\FlowerFactoryApp.pdb
+C:\Users\Ігор\source\repos\FlowerFactoryApp\FlowerFactoryApp\obj\Debug\FlowerFa.AB67FB22.Up2Date
